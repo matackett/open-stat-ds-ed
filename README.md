@@ -1,9 +1,8 @@
 ## JSM 2021 - Invited session
 
-Monday, 8/9/2021
-1:30 PM - 3:20 PM ET  
-**ADD LINK TO SITE**
-**UPDATE LINK** Click [here](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219247) to join session
+:date: Monday, 8/9/2021
+:alarm_clock: 1:30 PM - 3:20 PM ET  
+:link: Click [here](https://jsm2021.pathable.co/meetings/virtual/S7Cp6WeAiSXEf8kWn) to join session.
 
 <details>
 <summary>Session abstract</summary>
