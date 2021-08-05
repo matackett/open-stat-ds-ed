@@ -1,7 +1,9 @@
 ## JSM 2021 - Invited session
 
-:date: Monday, 8/9/2021
-:alarm_clock: 1:30 PM - 3:20 PM ET  
+:calendar: Monday, 8/9/2021
+
+:alarm_clock: 1:30 PM - 3:20 PM ET 
+
 :link: Click [here](https://jsm2021.pathable.co/meetings/virtual/S7Cp6WeAiSXEf8kWn) to join session.
 
 <details>
