@@ -13,7 +13,7 @@ Add abstract
 
 <br>
 
-### Teaching Data Science Authentically Using Open Source Educational Resources [[Slides]]() **Update link**
+### Teaching Data Science Authentically Using Open Source Educational Resources [[Slides]](https://ttimbers.github.io/oer-stat-ds-ed-jsm2021-timbers/talk/oer-stat-ds-ed-jsm2021-timbers.html) [[Additional resources]](01-timbers/README.md)
  
 *Tiffany Anne Timbers (University of British Columbia)*
 
