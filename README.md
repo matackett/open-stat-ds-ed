@@ -6,11 +6,6 @@ Monday, 8/9/2021
 
 Click [here](https://jsm2021.pathable.co/meetings/virtual/S7Cp6WeAiSXEf8kWn) to join session.
 
-<details>
-<summary>Session abstract</summary>
-Add abstract
-</details>
-
 <br>
 
 ### Teaching Data Science Authentically Using Open Source Educational Resources [[Slides]](https://ttimbers.github.io/oer-stat-ds-ed-jsm2021-timbers/talk/oer-stat-ds-ed-jsm2021-timbers.html) [[Additional resources]](01-timbers/README.md)
