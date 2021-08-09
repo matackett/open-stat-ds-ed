@@ -31,7 +31,7 @@ Creative contributions and activities can be a bridge for learners to access dat
 
 [Allison Horst](https://www.allisonhorst.com/) teaches math, data science, statistics, and presentation skills as an Assistant Teaching Professor at the Bren School of Environmental Science and Management (UC Santa Barbara). She also leads interdepartmental data science workshops for graduate students at UCSB, and is a co-founder and active participant in R-Ladies Santa Barbara and the UCSB TidyTuesday Coding Club. Allison earned her PhD in 2012 for her work investigating the toxicity and interactions of engineered nanoparticles in environmental microorganisms. She is also a landscape painter, illustrator and designer. Much of her creative work in recent years has been on creating an open library of illustrations for use in data science and statistics courses. She was RStudio's Artist-in-Residence from 2019 - 2020.
 
-### OpenIntro: Building, Sustaining, Supporting, and Growing Open-Source Educational Resources [[Slides]](https://bit.ly/openintro-jsm2021) 
+### OpenIntro: Building, Sustaining, Supporting, and Growing Open-Source Educational Resources [[Slides]](https://bit.ly/openintro-jsm2021) [[Additional resources]](03-cetinkaya-rundel)
 
 *Mine Çetinkaya-Rundel (Duke University, RStudio)*
 
