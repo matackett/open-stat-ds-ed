@@ -34,14 +34,14 @@ OpenIntro's ([openintro.org](https://openintro.org/)) mission is to make educati
 
 [Mine Çetinkaya-Rundel](https://www2.stat.duke.edu/~mc301/) is Professor of the Practice at the Department of Statistical Science at Duke University and Data Scientist and Professional Educator at RStudio. Mine works on integrating computation into the undergraduate statistics curriculum, using reproducible research methodologies and analysis of real and complex datasets. She also organizes ASA DataFest, works on the OpenIntro project, teaches the popular Statistics with R MOOC on Coursera, and is the creator and maintainer of Data Science in a Box. Mine is the recipient of the 2021 The Robert V. Hogg Award For Excellence in Teaching Introductory Statistics and is the Chair-Elect for the Section on Statistical Computing.
 
-### Discussion [[Comments]]() **Update link** 
+### Discussion 
 
 *Stephanie Hicks (Johns Hopkins Bloomberg School of Public Health)*
 
-[Stephanie Hicks](https://www.stephaniehicks.com/) is an Assistant Professor in the Department of Biostatistics at Johns Hopkins Bloomberg School of Public Health. She is also a faculty member of the Johns Hopkins Data Science Lab (https://jhudatascience.org), co-host of The Corresponding Author podcast (https://twitter.com/CorrespondAuth) discussing data science in academia, and co-founder of R-Ladies Baltimore (https://rladies-baltimore.github.io). She is also the lead principal investigator for the Open Case Studies project, and educational data science resource based on real-world problems. 
+[Stephanie Hicks](https://www.stephaniehicks.com/) is an Assistant Professor in the Department of Biostatistics at Johns Hopkins Bloomberg School of Public Health. She is also a faculty member of the [Johns Hopkins Data Science Lab](https://jhudatascience.org), co-host of [The Corresponding Author podcast](https://twitter.com/CorrespondAuth) discussing data science in academia, and co-founder of [R-Ladies Baltimore](https://rladies-baltimore.github.io). She is also the lead principal investigator for the Open Case Studies project, and educational data science resource based on real-world problems. 
 
 
 <br><br>
 
-[This session](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/MainSearchResults.cfm) was organised by Mine Çetinkaya-Rundel, chaired by [Maria Tackett](https://www.mariatackett.net)(Duke University) and sponsored by the Section on Statistics and Data Science Education, the Caucus for Women in Statistics, Section on Statistical Computing, and Section on Teaching of Statistics in the Health Sciences. 
+[This session](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/MainSearchResults.cfm) was organized by Mine Çetinkaya-Rundel, chaired by [Maria Tackett](https://www.mariatackett.net)(Duke University) and sponsored by the Section on Statistics and Data Science Education, the Caucus for Women in Statistics, Section on Statistical Computing, and Section on Teaching of Statistics in the Health Sciences. 
 
